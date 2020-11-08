@@ -1,0 +1,13 @@
+book_filename: "sits-book"
+delete_merged_file: true
+output_dir: "docs"
+new_session: yes
+rmd_files: [
+  "index.Rmd",
+  "01-intro.Rmd",
+  "02-literature.Rmd",
+  "03-method.Rmd",
+  "04-application.Rmd",
+  "05-summary.Rmd",
+  "references.Rmd"
+]
